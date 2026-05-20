@@ -152,9 +152,6 @@ Get the PDF download URL.
 
 ---
 
-## Get Your API Key
-
-Sign up at **paymint.dev** (coming soon)
 
 ## License
 MIT
