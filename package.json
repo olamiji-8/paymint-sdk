@@ -1,0 +1,34 @@
+{
+  "name": "paymint",
+  "version": "1.0.1",
+  "description": "The simplest payment SDK for Nigerian developers — powered by PayMint",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node tests/index.test.js"
+  },
+  "keywords": [
+    "payment",
+    "nigeria",
+    "paystack",
+    "fintech",
+    "sdk",
+    "paymint"
+  ],
+  "author": "Olamiji Sotomi <olamijisotomi@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/paymint"
+  }
+}
