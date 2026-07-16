@@ -5,7 +5,7 @@ class PayMint {
   constructor(config = {}) {
     if (!config.apiKey) throw new Error('[PayMint] apiKey is required.');
     this.apiKey = config.apiKey;
-    this.baseUrl = config.baseUrl || 'https://backend-q9dq.onrender.com';
+    this.baseUrl = config.baseUrl || 'https://paymint-tb5q.onrender.com';
     this.currency = config.currency || 'NGN';
     this.onSuccess = config.onSuccess || null;
     this.onError = config.onError || null;

@@ -1,6 +1,6 @@
 {
   "name": "paymint",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The simplest payment SDK for Nigerian developers — powered by PayMint",
   "main": "src/index.js",
   "exports": {
